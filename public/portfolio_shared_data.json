@@ -12,6 +12,11 @@
           "name": "instagram",
           "url": "https://www.instagram.com/navneetjoshi95",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/navneetjoshi7",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myPhoto.png"
