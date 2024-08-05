@@ -59,6 +59,11 @@
           "level": "85"
         },
         {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
           "name": "Spring Boot",
           "class": "devicon-spring-original",
           "level": "65"
