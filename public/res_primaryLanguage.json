@@ -45,7 +45,7 @@
       {
         "title": "SupplyChainApp",
         "startDate": "July 2024",
-        "description": "Project as part of take home assessment for Supply chain data hub Research Assistantship. The application has backend APIs written in Python using Flask, a frontend with two pages coded in React and map integration using Leaflet. It is containerized using Docker.",
+        "description": "A small supply chain application that displays a list of companies and their multiple locations marked on a map. On clicking a specific location, the map marker flies to and highlights the selected location. The app has backend APIs written in Python using Flask, a frontend with two pages coded in React and map integration using React Leaflet. It is containerized using Docker.",
         "images": [
           "images/portfolio/supplychainapp/SupplyChainApp1.png",
           "images/portfolio/supplychainapp/SupplyChainApp2.png"
@@ -122,6 +122,7 @@
           "Angular",
           "TypeScript",
           "ChartJS",
+          "PostgreSQL",
           "Spring Boot",
           "JUnit",
           "Java",
