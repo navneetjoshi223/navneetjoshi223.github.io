@@ -1,0 +1,133 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Hi, I’m Navneet Joshi, a passionate software engineer with six years of experience specializing in front-end technologies like Angular and React. My expertise extends to TypeScript, JavaScript, and Java, and I have a solid background in both frontend and backend development with frameworks like Redux, Node.js, and Spring Boot. I have some experience in cloud platforms such as AWS and Microsoft Azure, ensuring scalable and robust application deployments. I thrive on creating innovative software solutions across various industries, tackling challenges with enthusiasm and a touch of coding magic. Let’s build something amazing together!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Verbello",
+        "startDate": "October 2023",
+        "description": "This is a language learning platform designed for native English speakers to learn Spanish, French, German, Italian, and Portuguese.",
+        "images": [
+          "images/portfolio/verbello/verbello1.png",
+          "images/portfolio/verbello/verbello2.png",
+          "images/portfolio/verbello/verbello3.png",
+          "images/portfolio/verbello/verbello4.png",
+          "images/portfolio/verbello/verbello5.png",
+          "images/portfolio/verbello/verbello6.png"
+        ],
+        "url": "https://verbello.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "ExpressJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "SupplyChainApp",
+        "startDate": "July 2024",
+        "description": "Project as part of take home assessment for Supply chain data hub Research Assistantship. The application has backend APIs written in Python using Flask, a frontend with two pages coded in React and map integration using Leaflet. It is containerized using Docker.",
+        "images": [
+          "images/portfolio/supplychainapp/SupplyChainApp1.png",
+          "images/portfolio/supplychainapp/SupplyChainApp2.png"
+        ],
+        "url": "https://github.com/navneetjoshi223/SupplyChainApp",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-flask-original-wordmark",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-docker-plain colored",
+            "name": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "LanguageDB",
+        "startDate": "March 2024",
+        "description": "Developed a language learning application using SQL for database management. The application facilitates effective language acquisition by offering a variety of interactive learning modules. I worked on writing SQL queries, stored procedures, triggers, user defined functions.",
+        "images": [
+          "images/portfolio/languagedb/ERD.jpg"
+        ],
+        "url": "https://github.com/navneetjoshi223/LanguageDB",
+        "technologies": [
+          {
+            "class": "devicon-microsoftsqlserver-plain",
+            "name": "SQL"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Baker Hughes",
+        "title": "Software Engineer",
+        "years": "11.2019 - 06.2023",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "TypeScript",
+          "React",
+          "Redux",
+          "JavaScript",
+          "OAuth2",
+          "Node.js",
+          "Storybook",
+          "AWS",
+          "Matomo",
+          "OutSystems"
+        ]
+      },
+      {
+        "company": "General Electric / Baker Hughes",
+        "title": "Software Engineering Specialist",
+        "years": "06.2017 - 10.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "Angular",
+          "TypeScript",
+          "ChartJS",
+          "Spring Boot",
+          "JUnit",
+          "Java",
+          "Elasticsearch",
+          "Apache Kafka"
+        ]
+      }
+    ]
+  }
