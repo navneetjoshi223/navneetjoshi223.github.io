@@ -126,7 +126,8 @@
           "Storybook",
           "AWS",
           "Matomo",
-          "OutSystems"
+          "OutSystems",
+          "Spring Boot"
         ]
       },
       {
@@ -134,7 +135,7 @@
         "title": "Software Engineering Specialist",
         "years": "06.2017 - 10.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Spring Boot (Java)"
         ],
         "technologies": [
           "Angular",
@@ -145,7 +146,8 @@
           "JUnit",
           "Java",
           "Elasticsearch",
-          "Apache Kafka"
+          "Apache Kafka",
+          "Redis"
         ]
       }
     ]
