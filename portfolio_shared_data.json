@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Navneet Joshi",
-      "titles": [ "Front-end Developer", "Full Stack Engineer" ],
+      "titles": [ "Front-end Software Engineer", "Full Stack Engineer" ],
       "social": [
         {
           "name": "github",
@@ -39,11 +39,6 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -69,6 +64,11 @@
           "level": "65"
         },
         {
+          "name": "Amazon Web Services (AWS)",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "65"
+        },
+        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
@@ -77,6 +77,11 @@
           "name": "PostgreSQL",
           "class": "devicon-postgresql-plain",
           "level": "60"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
         }
       ]
     }
