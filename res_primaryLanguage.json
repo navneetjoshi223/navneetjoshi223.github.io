@@ -91,6 +91,24 @@
       }
     ],
     "experience": [
+     {
+        "company": "Metropolitan Area Planning Council",
+        "title": "Software Engineering Co-op",
+        "years": "09.2024 - 12.2024",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "TypeScript",
+          "React",
+          "Vite",
+          "JavaScript",
+          "Zustand",
+          "Airtable",
+          "Storybook",
+          "AWS"
+        ]
+      },
       {
         "company": "Baker Hughes",
         "title": "Software Engineer",
