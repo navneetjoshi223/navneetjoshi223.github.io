@@ -106,6 +106,7 @@
           "Zustand",
           "Airtable",
           "Storybook",
+          "GraphQL",
           "AWS"
         ]
       },
@@ -121,6 +122,7 @@
           "React",
           "Redux",
           "JavaScript",
+          "GraphQL",
           "OAuth2",
           "Node.js",
           "Storybook",
